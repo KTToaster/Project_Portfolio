@@ -1,5 +1,5 @@
 <?php
-  $title = "About Me";
+  $title = "KTToaster - About Me";
   $activepage = "About";
   $stylesheets = '<link href="/static/css/index.css" rel="stylesheet">';
   $scripts = '<script src="/static/ts/index.ts" type="module"></script>';

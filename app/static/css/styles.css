@@ -1,3 +1,9 @@
 .main{
   min-height: 100vh !important;
 }
+.footer-nav{
+  padding-top: 5vh;
+}
+.footer-icon{
+  height: 30px;
+}
