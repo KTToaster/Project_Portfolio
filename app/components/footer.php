@@ -9,7 +9,7 @@
         </a>
       </li>
       <li class="col-2 nav-item text-center">
-        <a class="nav-link px-2 text-body-secondary" href="https://www.linkedin.com/in/kian-tomkins-b189371b5">
+        <a class<br>="nav-link px-2 text-body-secondary" href="https://www.linkedin.com/in/kian-tomkins-b189371b5">
           <img class="footer-icon" src="../static/assets/LinkedIn.svg"><br><br>
           LinkedIn
         </a>
