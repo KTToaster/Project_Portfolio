@@ -23,11 +23,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link <?= active("Hardware", $activepage) ?>" href="/hardware.php">Hardware</a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link <?= active("Software", $activepage) ?>" href="/software.php">Software</a>
+            <a class="nav-link <?= active("Software", $activepage) ?>" href="/software.php">Projects</a>
           </li>
 
           <li class="nav-item dropdown">

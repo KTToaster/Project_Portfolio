@@ -9,7 +9,7 @@
         </a>
       </li>
       <li class="col-2 nav-item text-center">
-        <a class<br>="nav-link px-2 text-body-secondary" href="https://www.linkedin.com/in/kian-tomkins-b189371b5">
+        <a class="nav-link px-2 text-body-secondary" href="https://www.linkedin.com/in/kian-tomkins-b189371b5">
           <img class="footer-icon" src="../static/assets/LinkedIn.svg"><br><br>
           LinkedIn
         </a>
@@ -22,5 +22,5 @@
       </li>
     </ul>
   </div>
-  <p class="text-center text-body-secondary">Last Updated: 31/06/2026</p>
+  <p class="text-center text-body-secondary">Last Updated: 15/08/2026</p>
 </footer>

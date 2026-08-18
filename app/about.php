@@ -8,6 +8,9 @@
 ?>
   
 <h1>About</h1>
+<main>
+  
+</main>
 
 <?php
   $content = ob_get_clean();

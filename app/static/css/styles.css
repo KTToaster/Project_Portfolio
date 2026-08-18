@@ -7,3 +7,17 @@
 .footer-icon{
   height: 30px;
 }
+.album-image{
+  max-width: 100%;
+  aspect-ratio: 1/1!important;
+  display: block;
+}
+.album-text{
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+.album-item{
+  display: flex;
+  align-items: stretch;
+}
