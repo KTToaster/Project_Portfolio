@@ -38,12 +38,8 @@
             </ul>
           </li>
         </ul>
-
-        <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Search">
-          <button class="btn btn-outline-success">Go</button>
-        </form>
       </div>
     </div>
   </nav>
+  <br><br>
 </header>

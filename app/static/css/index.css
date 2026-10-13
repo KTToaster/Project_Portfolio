@@ -8,11 +8,27 @@
 }
 
 .headline{
-  align-self: flex-start;
-  width: 40%;
+  width: 100%;
+  display:flex;
+  justify-content: space-between;
 }
 
+.headline-text{
+  margin-left: 5%;
+  margin-bottom: 3vh;
+  width: 45%;
+}
 
+.headline-image{
+  width: 30%;
+  aspect-ratio: 1/1!important;
+  border-radius: 100%;
+  border-color: var(--bs-btn-active-border-color);
+  border-style: solid;
+  border-width: medium;
+  margin-bottom: 3vh;
+  margin-right: 5%;
+}
 
 .title{
   width: 100%!important;
