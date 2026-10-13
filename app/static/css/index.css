@@ -8,9 +8,11 @@
 }
 
 .headline{
-  width: 60vw;
-  text-align: center;
+  align-self: flex-start;
+  width: 40%;
 }
+
+
 
 .title{
   width: 100%!important;

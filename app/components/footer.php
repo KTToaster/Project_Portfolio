@@ -22,5 +22,5 @@
       </li>
     </ul>
   </div>
-  <p class="text-center text-body-secondary">Last Updated: 15/08/2026</p>
+  <p class="text-center text-body-secondary">Last Updated: 13/10/2026</p>
 </footer>

@@ -1,3 +1,10 @@
+<?php
+/*
+ * Variable Quick Reference
+ * $title       - The name of the page that the user is currently on.
+ * $stylesheets - HTML for any additional stylesheets to include.
+ */
+?>
 <!--HEAD-->
 <head>
   <meta charset="UTF-8"/>
