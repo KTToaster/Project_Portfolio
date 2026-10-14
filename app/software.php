@@ -1,13 +1,13 @@
 <?php
   $title = "KTToaster - Projects";
-  $activepage = "Projects";
+  $active_page = "Software";
   $stylesheets = '<link href="/static/css/index.css" rel="stylesheet">';
   $scripts = '<script src="/static/ts/index.ts" type="module"></script>';
 
   ob_start();
 ?>
   
-<h1>Projects</h1>
+<h1 class="title">Projects</h1>
 <main>
   
 </main>

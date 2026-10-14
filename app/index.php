@@ -1,6 +1,6 @@
 <?php
   $title = "KTToaster - Home";
-  $activepage = "Index";
+  $active_page = "Index";
   $stylesheets = '<link href="/static/css/index.css" rel="stylesheet">';
   $scripts = '<script src="/static/ts/index.ts" type="module"></script>';
 
@@ -16,10 +16,10 @@
       I have a Master's Degree in Software Engineering from Lancaster University, and professional experience across educational, academic, and public sectors,
       leveraging my minor in psychology to better understand user perspectives.<br><br>
       This site aims to showcase some of my experience and the projects that I have completed throughout my software engineering career.<br><br>
-      CV: <a href="./static/assets/Kian_Tomkins_CV.pdf">Click here to download CV (PDF).</a><br>
+      CV: <a href="./static/assets/Kian_Tomkins_CV.pdf">Click here to download CV (PDF)</a>.<br>
       <smaller>This CV may not always be up to date. Last Updated: 13/10/2026.</smaller>
     </div>
-    <img class="headline-image" src="./static/assets/Profile_Picture.jpg"">
+    <img class="headline-image" src="./static/assets/Profile_Picture.jpg">
   </div>
 
   <h3 class="title">Featured Projects</h3>
@@ -50,52 +50,6 @@
     </div>
   </div>
 </div>
-
-<!-- 
-<div class="col-md-4 album-item">
-  <div class="card mb-4 box-shadow">
-    <img class="card-img-top album-image" alt="Turing Texts Interface" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShrlhoZUPFN7jDh7IZB0v_zE_wIcwI7BEqWxffW8V86A&s=10">
-    <div class="card-body">
-      <p class="card-text album-text">
-        <b>Turing Texts</b><br>
-      </p>
-      <div class="d-flex justify-content-center align-items-center">
-        <div class="btn-group text-center">
-          <button type="button" class="btn btn-sm btn-outline-secondary">Details</button>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div class="col-md-4 album-item">
-  <div class="card mb-4 box-shadow">
-    <img class="card-img-top album-image" alt="The Sound:Bit PCB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShrlhoZUPFN7jDh7IZB0v_zE_wIcwI7BEqWxffW8V86A&s=10">
-    <div class="card-body">
-      <p class="card-text album-text"><b>Sound:Bit</b><br></p>
-      <div class="d-flex justify-content-center align-items-center">
-        <div class="btn-group text-center">
-          <button type="button" class="btn btn-sm btn-outline-secondary">Details</button>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 album-item">
-  <div class="card mb-4 box-shadow">
-    <img class="card-img-top album-image" alt="IoTA Programming Interface" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShrlhoZUPFN7jDh7IZB0v_zE_wIcwI7BEqWxffW8V86A&s=10">
-    <div class="card-body">
-      <p class="card-text album-text"><b>IoTA (Internet of Things Automator)</b><br></p>
-      <div class="d-flex justify-content-center align-items-center">
-        <div class="btn-group text-center">
-          <button type="button" class="btn btn-sm btn-outline-secondary">Details</button>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
--->
 
 <?php
   $content = ob_get_clean();

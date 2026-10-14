@@ -1,6 +1,11 @@
+a{
+  color: var(--bs-body-color)!important;
+}
+
 .main{
   min-height: 100vh !important;
 }
+
 .footer-nav{
   padding-top: 5vh;
 }
@@ -21,6 +26,30 @@
   display: flex;
   align-items: stretch;
 }
+.title{
+  width: 100%!important;
+  text-align: center;
+  border-bottom: thin solid;
+  padding-bottom: 0.5%;
+  margin-bottom: 1.5%;
+}
+.project-container-outer{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  width: 100%!important;
+}
+.project-container{
+  margin-top: 0px!important;
+  padding-top: 0px!important;
+  display: flex;
+  width: 90%;
+  margin-bottom: 3vh;
+  padding-bottom: 0px!important;
+}
+
 
 smaller{
   font-size:xx-small;
